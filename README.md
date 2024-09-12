@@ -25,7 +25,7 @@ Este repositório se propõe a organizar as documentações da aula experimental
 <br />
 
 **Virgílio
-Mendes**([virgilioebm\@gmail.com](mailto:virgilioebm@gmail.com))
+Mendes**([v.mendesdcp@gmail.com](mailto:v.mendesdcp@gmail.com))
 
 <br />
 
