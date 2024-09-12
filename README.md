@@ -30,7 +30,7 @@ Mendes**([v.mendesdcp@gmail.com](mailto:v.mendesdcp@gmail.com))
 <br />
 
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" alt="Virgilio Mendes | ResearchGate" align="left" width="22px"/>](https://www.researchgate.net/profile/Virgilio_Mendes3)
-[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="virgiliomendes.github.io" align="left" width="22px"/>](https://virgiliomendes.github.io)
+[<img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="virgiliomendes.github.io" align="left" width="22px"/>](https://virgilioamendes.quarto.pub/)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Virgilio Mendes | Twitter" align="left" width="22px"/>](https://twitter.com/Mendes_txt)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Virgilio Mendes | LinkedIn" align="left" width="22px"/>](https://www.linkedin.com/in/virgiliomendes/)
 
@@ -41,7 +41,7 @@ built-with-science](http://ForTheBadge.com/images/badges/built-with-science.svg)
 [![ForTheBadge
 built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
-Made by [Virgilio Mendes](https://virgilioamendes.quarto.pub).
+Made by [Virgilio Mendes](https://virgilioamendes.quarto.pub/).
 
 <hr>
 
